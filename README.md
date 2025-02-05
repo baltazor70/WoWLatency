@@ -1,4 +1,4 @@
-Описание аддона WoWLatency 1.0a (на русском языке)
+WoWLatency 1.0a (на русском языке)
 WoWLatency — это простой и удобный аддон для World of Warcraft, который отображает текущий пинг (задержку) на иконке у миникарты. Аддон также предоставляет информацию о среднем значении пинга за последние 30 минут. Это может быть полезно для мониторинга стабильности соединения с сервером.
 
 Основные функции:
@@ -30,7 +30,7 @@ WoWLatency — это простой и удобный аддон для World o
 Baltazorius (Spineshatter EU)
 Контакт: baltazor70@gmail.com
 
-WoWLatency 1.0a Addon Description (in English)
+WoWLatency 1.0a (in English)
 WoWLatency is a simple and convenient addon for World of Warcraft that displays the current ping (latency) on an icon near the minimap. The addon also provides information about the average ping over the last 30 minutes. This can be useful for monitoring the stability of your connection to the server.
 
 Key Features:
