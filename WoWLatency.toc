@@ -1,5 +1,5 @@
 ## Interface: 11305
-## Title: WoWLatency ver.1.0
+## Title: WoWLatency ver.1.0a
 ## Notes: Ping display addon
 ## Author: Baltazorius - Spineshatter (EU)
 ## Version: 1.0
