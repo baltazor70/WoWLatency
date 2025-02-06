@@ -68,9 +68,6 @@ Average Latency (Last 30 minutes): Средний пинг за последни
 **Благодарности**
 Спасибо всем, кто тестировал аддон и предлагал улучшения! Ваши отзывы помогают сделать аддон лучше.
 
-**Лицензия**
-Аддон распространяется под лицензией MIT. Подробности см. в файле LICENSE.
-
 **What's New in Version 1.1**
 Added:
 
@@ -153,12 +150,7 @@ No known issues. If you find a bug, please report it on GitHub.
 
 **Acknowledgments**
 
-Thanks to everyone who tested the addon and suggested improvements! Your feedback helps make the addon better.
-
-**License**
-
-The addon is distributed under the MIT License. For details, see the LICENSE file.
-
+Thanks to everyone who tested the addon and suggested improvements! Your feedback helps make the addon better
 
 **WoWLatency 1.0a**
 
