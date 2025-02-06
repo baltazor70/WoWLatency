@@ -1,0 +1,7 @@
+## Interface: 11305
+## Title: WoWLatency ver.1.1
+## Notes: Ping display addon
+## Author: Baltazorius - Spineshatter (EU)
+## Version: 1.1
+
+WoWLatency.lua
