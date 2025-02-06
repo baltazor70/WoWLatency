@@ -88,7 +88,7 @@ end
 
 -- Функция для отображения справки
 local function ShowHelp()
-    print("WoWLatency - Аддон для отображения пинга")
+    print("WoWLatency - Ping display addon")
     print("Версия: " .. addonVersion)
     print("Автор: " .. addonAuthor)
     print("Контакты: " .. addonContact)
